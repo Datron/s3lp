@@ -1,5 +1,5 @@
 # Sem 3 DSA lab programs are stored on this repository fo future reference
-
+Please note these programs only function on linux systems.
 ## Lab programs in order
 1. Array Operations - **lp1.c**
 2. String Manipulations - **lp2.c**
@@ -10,3 +10,10 @@
      * b) Tower of Hanoi - **tower.c**
 6. Circular Queues - **cqueue.c**
 7. Student data Single Linked Lists - **sll.c**
+
+## More to be added
+
+To clone this repository to your linux machine, type the below commands:
+
+
+` git clone https://github.com/datron/s3lp `
