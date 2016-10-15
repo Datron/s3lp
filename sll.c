@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #define MAX 30
 #define MALLOC(p,s,t)\
-	if(!(p=(t)malloc(s))){\
+	if(!(p=(t*)malloc(s))) {\
 		fprintf(stderr,"Insufficient memory \n");\
 		exit(0);\
 		}
@@ -89,9 +89,9 @@ void readdata()
 	printf("Enter student name: ");
 	scanf("%s", sname);
 	printf("Enter branch: ");
-	scanf("%s",branc );
+	scanf("%s",branc);
 	printf("Enter semester: ");
-	scanf("%d",se);
+	scanf("%d",&se);
 	printf("Enter phone number: ");
 	scanf("%s",phone);
 }
@@ -114,7 +114,7 @@ NODE create(NODE first,int n)
 NODE insfront(NODE first)
 {
 	NODE q;
-	MALLOC(q,sizeof(struct list),NODE);
+	MALLOC(q,sizeof(NODE),struct list);
 	strcpy(q->USN,usn);
 	strcpy(q->name,sname);
 	strcpy(q->branch,branc);
@@ -127,7 +127,7 @@ NODE insfront(NODE first)
 NODE insrear(NODE first)
 {
 	NODE q,t=first;
-	MALLOC(q,sizeof(struct list),NODE);
+	MALLOC(q,sizeof(NODE),struct list);
 	strcpy(q->USN,usn);
 	strcpy(q->name,sname);
 	strcpy(q->branch,branc);
@@ -184,7 +184,7 @@ void display(NODE first)
 	int count =0;
 	while(first)
 	{
-		printf("%s\t%s\t%s\t%s\t%d\t%s\n",first->USN,first->name,first->branch,first->sem,first->phno);
+		printf("%s\t%s\t%s\t%d\t%s\n",first->USN,first->name,first->branch,first->sem,first->phno);
 		first=first->link;
 		count++;
 	}
