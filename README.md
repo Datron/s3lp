@@ -10,6 +10,9 @@ Please note these programs only function on linux systems.
      * b) Tower of Hanoi - **tower.c**
 6. Circular Queues - **cqueue.c**
 7. Student data Single Linked Lists - **sll.c**
+8. Employee data Double Linked Lists - **dll.c**
+9. Polynomial evaluation and solutions - **poly.c**
+
 
 ## More to be added
 
@@ -17,3 +20,4 @@ To clone this repository to your linux machine, type the below commands:
 
 
 ` git clone https://github.com/datron/s3lp `
+
