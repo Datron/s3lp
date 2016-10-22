@@ -1,4 +1,4 @@
-# Sem 3 DSA lab programs are stored on this repository fo future reference
+# Sem 3 DSA lab programs are stored on this repository for future reference
 Please note these programs only function on linux systems.
 ## Lab programs in order
 1. Array Operations - **lp1.c**
