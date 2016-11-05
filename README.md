@@ -12,7 +12,8 @@ Please note these programs only function on linux systems.
 7. Student data Single Linked Lists - **sll.c**
 8. Employee data Double Linked Lists - **dll.c**
 9. Polynomial evaluation and solutions - **poly.c**
-
+10. Binary Search Tree - **bst.c**
+11. Graph with N cities - **graph.c**
 
 ## More to be added
 
