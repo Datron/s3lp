@@ -30,7 +30,7 @@ void dfs(int v)
 {
 	int w;
 	visited[v]=1;
-	for(w=2;w<=n;w++)
+	for(w=1;w<=n;w++)
 	{
 		if(visited[w]==0 && a[v][w]==1)
 		{
