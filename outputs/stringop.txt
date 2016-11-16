@@ -1,0 +1,35 @@
+Script started on Wed 16 Nov 2016 20:38:19 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./.aout[K[K[K[K[Ka.out
+Enter the string 
+Kartik
+Enter the replacement string 
+Kar
+Enter the pattern string 
+Car
+pattern not found
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Enter the string 
+kartik
+Enter the replacement string 
+Kar
+Enter the pattern string 
+kar
+pattern not found
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Enter the string 
+hello world
+Enter the replacement string 
+hi
+Enter the pattern string 
+hello
+pattern not found
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Enter the string 
+hello wolrd   rldEnter the replacement string 
+hiEnter the pattern string 
+hellopattern found 
+hi world
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 20:40:21 IST

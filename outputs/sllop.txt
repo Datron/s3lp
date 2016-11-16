@@ -1,0 +1,86 @@
+Script started on Wed 16 Nov 2016 21:09:40 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m cc sll.c
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+1
+Enter no. of students 
+1
+Enter student data 1 
+Enter student USN: 1BI15CS068
+Enter student name: KARTIK
+Enter branch: CSE
+Enter semester: 3
+Enter phone number: 123
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+2
+Enter student USN: 1BI15CS066
+Enter student name: NITHIN
+Enter branch: CSE
+Enter semester: 3
+Enter phone number: 456
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+3
+Enter student USN: 1BI15CS067
+Enter student name: KARAN
+Enter branch: CSE
+Enter semester: 3
+Enter phone number: 789
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+6
+1BI15CS068	KARTIK	CSE	3	123
+1BI15CS067	KARAN	CSE	3	789
+count of nodes = 2 
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+2
+Enter student USN: 1BI15CS066
+Enter student name: NITHIN
+Enter branch: CSE
+Enter semester: 3
+Enter phone number: 456
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+6
+1BI15CS066	NITHIN	CSE	3	456
+1BI15CS068	KARTIK	CSE	3	123
+1BI15CS067	KARAN	CSE	3	789
+count of nodes = 3 
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+4
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+6
+1BI15CS068	KARTIK	CSE	3	123
+1BI15CS067	KARAN	CSE	3	789
+count of nodes = 2 
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+5
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+6
+1BI15CS068	KARTIK	CSE	3	123
+count of nodes = 1 
+
+ 1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
+Enter choice 
+7
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m EXI[K[K[Kexit
+exit
+
+Script done on Wed 16 Nov 2016 21:13:50 IST

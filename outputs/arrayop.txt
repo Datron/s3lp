@@ -1,0 +1,52 @@
+Script started on Wed 16 Nov 2016 20:34:31 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./.aot[K[K[K[Ka.out
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+1
+Enter the number of elements 
+5
+Enter the element 
+1
+Enter the element 
+2
+Enter the element 
+3
+Enter the element 
+4
+Enter the element 
+6
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+2
+Enter the position 
+4
+Enter the element  
+5
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+4
+Array elements 
+1 	2 	3 	4 	5 	6 	
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+3
+Enter the position 
+5
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+4
+Array elements 
+1 	2 	3 	4 	5 	
+Array operations 
+ 1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
+Enter your choice 
+5
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 20:35:46 IST

@@ -1,0 +1,58 @@
+Script started on Wed 16 Nov 2016 21:14:22 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	1
+Enter no. of employees 
+1
+Enter employee data 1 
+Enter Employee SSN: 1234
+Enter employee name: ramu
+Enter department: marketing
+Enter designation: admin
+Enter salary: 7816.18
+Enter phone: 111
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	2
+Enter Employee SSN: 456
+Enter employee name: Tony Stark
+Enter department: Enter designation: cs  te  head
+Enter salary: 1111111111
+Enter phone: 123
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	6
+456	Tony	Stark	head	1111111168.000000	123
+1234	ramu	marketing	admin	7816.180176	111
+count of nodes = 2 
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	4 3
+Enter Employee SSN: 789
+Enter employee name: steve
+Enter department: security
+Enter designation: catain    ptain
+Enter salary: 78987
+Enter phone: 22
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	6
+456	Tony	Stark	head	1111111168.000000	123
+1234	ramu	marketing	admin	7816.180176	111
+789	steve	security		78987.000000	22
+count of nodes = 3 
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	4
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	6
+1234	ramu	marketing	admin	7816.180176	111
+789	steve	security		78987.000000	22
+count of nodes = 2 
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	5
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	6
+1234	ramu	marketing	admin	7816.180176	111
+count of nodes = 1 
+1.Create 	 2.Insert front 	 3.Insert Rear 	 4.Delete front 	 5.Delete rear 	 6.Display 	 7.Exit 
+Enter choice: 	7
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 21:17:55 IST

@@ -1,0 +1,16 @@
+Script started on Wed 16 Nov 2016 21:07:36 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Enter the number of disks 
+3
+Move Disk 1 from peg A to peg C 
+Move Disk 2 from peg A to peg B 
+Move Disk 1 from peg C to peg B 
+Move Disk 3 from peg A to peg C 
+Move Disk 1 from peg B to peg A 
+Move Disk 2 from peg B to peg C 
+Move Disk 1 from peg A to peg C 
+Number of moves = 7 
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 21:08:02 IST

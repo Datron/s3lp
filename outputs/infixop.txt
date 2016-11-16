@@ -1,0 +1,10 @@
+Script started on Wed 16 Nov 2016 20:44:44 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Enter infix expression 
+a+b/c-d*e^f
+Entered expression : a+b/c-d*e^f 
+The postfix string is abc/def^*-+ 
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 20:46:17 IST

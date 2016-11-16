@@ -1,0 +1,50 @@
+Script started on Wed 16 Nov 2016 21:08:26 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+1
+Enter elements 
+1
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+1
+Enter elements 
+2
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+1
+Enter elements 
+3
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+1
+Enter elements 
+4
+Queue Overflow 
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+3
+1 	2 	3 	
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+2
+Queue elements deleted are 1 
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+2
+Queue elements deleted are 2 
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+22 
+Queue elements deleted are 3 
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+2
+Queue underflow 
+1.Insert 2.Delete 3.Display 4.Exit 
+Enter choice 
+4
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 21:09:26 IST

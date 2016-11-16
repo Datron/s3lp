@@ -1,0 +1,63 @@
+Script started on Wed 16 Nov 2016 21:20:44 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+1
+Enter no. of data elements 
+7
+Enter data element 
+90
+Enter data element 
+80
+Enter data element 
+70
+Enter data element 
+55
+Enter data element 
+44
+Enter data element 
+100
+Enter data element 
+360
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+2
+44
+55
+70
+80
+90
+100
+360
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+3
+44
+55
+70
+80
+360
+100
+90
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+4
+90
+80
+70
+55
+44
+100
+360
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+5
+Enter the key 
+55
+Key found 
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+5
+Enter the key 
+365
+Key not found 
+1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
+6
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 21:21:57 IST

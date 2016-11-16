@@ -1,0 +1,113 @@
+Script started on Wed 16 Nov 2016 21:26:29 IST
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out[K[K[K[K[K[K[Kcc hash.c
+]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+Collision handling linear probing 
+Enter the data 
+1111
+Do you want to continue? (1/0)
+1
+Enter the data 
+1134
+Do you want to continue? (1/0)
+1
+Enter the data 
+1234
+Collision Detected.....
+Collision avoided successfully
+Do you want to continue? (1/0)
+1
+Enter the data 
+1456
+Do you want to continue? (1/0)
+1
+Enter the data 
+1567
+Do you want to continue? (1/0)
+1
+Enter the data 
+3456
+Collision Detected.....
+Collision avoided successfully
+Do you want to continue? (1/0)
+1
+Enter the data 
+7895
+Do you want to continue? (1/0)
+1
+Enter the data 
+2341
+Do you want to continue? (1/0)
+1
+Enter the data 
+4577
+Do you want to continue? (1/0)
+1
+Enter the data 
+2214
+Do you want to continue? (1/0)
+1
+Enter the data 
+5456
+Collision Detected.....
+Collision avoided successfully
+Do you want to continue? (1/0)
+1
+Enter the data 
+4545
+Do you want to continue? (1/0)
+1
+Enter the data 
+2215
+Do you want to continue? (1/0)
+10 
+Enter the data 
+4523
+Do you want to continue? (1/0)
+10 
+Enter the data 
+5672
+Do you want to continue? (1/0)
+1
+Enter the data 
+4754
+1Do you want to continue? (1/0)
+1
+Enter the data 
+9753
+Do you want to continue? (1/0)
+1
+Enter the data 
+7866
+Do you want to continue? (1/0)
+1
+Enter the data 
+4964
+Do you want to continue? (1/0)
+0
+
+1.Display ALL 
+2.Filtered Display 
+2
+
+ HASH TABLE is 
+
+0 1234
+11 1111
+14 2214
+15 2215
+23 4523
+34 1134
+41 2341
+45 4545
+53 9753
+54 4754
+56 1456
+64 4964
+66 7866
+67 5456
+72 5672
+77 4577
+95 7895]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+exit
+
+Script done on Wed 16 Nov 2016 21:29:11 IST
