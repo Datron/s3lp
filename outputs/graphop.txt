@@ -1,6 +1,6 @@
 Script started on Wed 16 Nov 2016 21:24:19 IST
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m cc grah[Kph.c
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+$cc graph.c
+$./a.out
 Enter the number of vertices:4
 Enter adjacency matrix:0 1 1 0
 0 0 1 1
@@ -11,7 +11,7 @@ Enter the starting vertex: 1
 
 
 
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m e[K./a.out
+$./a.out
 Enter the number of vertices:6
 Enter adjacency matrix:0 0 1 0 0 0
 1 0 0 0 0 1
@@ -26,7 +26,7 @@ Enter the starting vertex: 1
 4 ->
 
 
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+$exit
 exit
 
 Script done on Wed 16 Nov 2016 21:26:17 IST
