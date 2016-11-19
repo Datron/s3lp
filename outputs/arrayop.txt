@@ -1,5 +1,6 @@
 Script started on Wed 16 Nov 2016 20:34:31 IST
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./.aot[K[K[K[Ka.out
+$cc array.c
+$./a.out
 Array operations 
  1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
 Enter your choice 
@@ -46,7 +47,7 @@ Array operations
  1.Create 	 2.Insert 	 3.Delete 	 4.Display 	 5.Exit 
 Enter your choice 
 5
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+$ exit
 exit
 
 Script done on Wed 16 Nov 2016 20:35:46 IST
