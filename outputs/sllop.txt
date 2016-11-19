@@ -1,6 +1,6 @@
 Script started on Wed 16 Nov 2016 21:09:40 IST
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m cc sll.c
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+$cc sll.c
+$./a.out
 
  1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
 Enter choice 
@@ -80,7 +80,7 @@ count of nodes = 1
  1.Create 	 2.Insert front 	 3. Insert rear 	 4.Delete front 	 5.delete rear 	 6.display 	 7.Exit 
 Enter choice 
 7
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m EXI[K[K[Kexit
+$exit
 exit
 
 Script done on Wed 16 Nov 2016 21:13:50 IST
