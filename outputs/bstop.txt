@@ -1,5 +1,6 @@
 Script started on Wed 16 Nov 2016 21:20:44 IST
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+$cc bst.c
+$./a.out
 1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
 1
 Enter no. of data elements 
@@ -57,7 +58,7 @@ Enter the key
 Key not found 
 1.Create 	 2.Inorder 	 3.Postorder 	 4.Preorder 	 5.Search 	 6.Exit 
 6
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+$exit
 exit
 
 Script done on Wed 16 Nov 2016 21:21:57 IST
