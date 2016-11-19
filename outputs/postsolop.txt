@@ -1,10 +1,10 @@
 Script started on Wed 16 Nov 2016 21:01:46 IST
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m cc postsol.c -lm
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m ./a.out
+$cc postsol.c -lm
+$./a.out
 Enter the postfix expression 
 123/456^*-+The orginal postfix expression = 123/456^*-+ 
 -62498.33 
-]0;pi@kartikpi: ~/s3lp[01;32mpi@kartikpi[00m:[01;34m~/s3lp $[00m exit
+$exit
 exit
 
 Script done on Wed 16 Nov 2016 21:02:20 IST
