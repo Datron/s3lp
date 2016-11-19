@@ -1,6 +1,6 @@
 Script started on Saturday 19 November 2016 01:33:31 PM IST
-]0;kartik@kartik-Lenovo-G460: ~/s3lpkartik@kartik-Lenovo-G460:~/s3lp$ cc poly.c -lm
-]0;kartik@kartik-Lenovo-G460: ~/s3lpkartik@kartik-Lenovo-G460:~/s3lp$ ./a.out
+$cc poly.c -lm
+$./a.out
 1.Polynomial Evaluation	 2.Add polynomial 	 3.Exit 
 Enter choice: 1
 Enter values for x,y,z: 2
@@ -33,7 +33,7 @@ Enter coeff and expx,expy,expz(-1 for exponent x to terminate) : -1
 Resultant c: 9x^5y^6z^6+3x^2y^1z^1+
 1.Polynomial Evaluation	 2.Add polynomial 	 3.Exit 
 Enter choice: 3
-]0;kartik@kartik-Lenovo-G460: ~/s3lpkartik@kartik-Lenovo-G460:~/s3lp$ exit
+$exit
 exit
 
 Script done on Saturday 19 November 2016 01:34:35 PM IST
